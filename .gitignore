@@ -64,3 +64,4 @@ packages/
 *.testsettings
 /.vs/WindowsInput/v15/Server/sqlite3
 /.vs/WindowsInput/DesignTimeBuild/.dtbcache
+/.vs/InputSimulatorCore/v15/Server/sqlite3
