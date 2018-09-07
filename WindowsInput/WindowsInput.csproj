@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
-		<PackageId>InputSimulator</PackageId>
+		<PackageId>InputSimulatorCore</PackageId>
 		<Product>Windows Input Simulator</Product>
 		<Authors>Michael Noonan, Christiaan Wevers</Authors>
 		<Company></Company>
@@ -13,6 +13,7 @@
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<SignAssembly>true</SignAssembly>
 		<AssemblyOriginatorKeyFile>WindowsInput.snk</AssemblyOriginatorKeyFile>
+		<AssemblyName>WindowsInput</AssemblyName>
 	</PropertyGroup>
 
 	<ItemGroup>
