@@ -63,3 +63,4 @@ packages/
 #Test files
 *.testsettings
 /.vs/WindowsInput/v15/Server/sqlite3
+/.vs/WindowsInput/DesignTimeBuild/.dtbcache
