@@ -11,7 +11,13 @@
 		<PackageLicenseUrl>http://inputsimulator.codeplex.com/license</PackageLicenseUrl>
 		<PackageProjectUrl>http://inputsimulator.codeplex.com</PackageProjectUrl>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<SignAssembly>true</SignAssembly>
+		<AssemblyOriginatorKeyFile>WindowsInput.snk</AssemblyOriginatorKeyFile>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="WindowsInput.snk" />
+	</ItemGroup>
 
 	<ItemGroup>
 	  <Folder Include="Properties\" />
