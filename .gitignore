@@ -69,3 +69,5 @@ packages/
 /.vs/WindowsInput/v15/Server/sqlite3
 /.vs/WindowsInput/DesignTimeBuild/.dtbcache
 /.vs/InputSimulatorCore/v15/Server/sqlite3
+/.vs/InputSimulatorCore/v16/Server/sqlite3/storage.ide-wal
+/.vs/InputSimulatorCore/v16/Server/sqlite3/storage.ide-shm
