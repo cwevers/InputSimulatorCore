@@ -62,3 +62,7 @@ packages/
 
 #Test files
 *.testsettings
+
+*.dtbcache
+*.lock
+*.ide
