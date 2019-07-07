@@ -1,6 +1,6 @@
 Input Simulator Core
 ====================
-Based on Windows Input Simulator created my Michael Noonan
+Based on Windows Input Simulator created my Michael Noonan.
 Originally a .net framework project, the source code has been updated to be used as a .net core project by Christiaan Wevers
 
 Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)
