@@ -1,3 +1,8 @@
+Input Simulator Core
+====================
+Based on Windows Input Simulator created my Michael Noonan
+Originally a .net framework project, the source code has been updated to be used as a .net core project by Christiaan Wevers
+
 Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)
 ============================================================================
 The Windows Input Simulator provides a simple .NET (C#) interface to simulate Keyboard or Mouse input using the Win32 SendInput method. All of the Interop is done for you and there's a simple programming model for sending multiple keystrokes.
@@ -6,7 +11,7 @@ Windows Forms provides the SendKeys method which can simulate text entry, but no
 
 NuGet
 ------
-Install-Package InputSimulator
+Install-Package InputSimulatorCore
 
 Examples
 ==========
