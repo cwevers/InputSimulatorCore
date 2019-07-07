@@ -6,14 +6,17 @@
 		<Product>Windows Input Simulator</Product>
 		<Authors>Michael Noonan, Christiaan Wevers</Authors>
 		<Company></Company>
-		<Description>The Windows Input Simulator provides a simple .NET (C#) interface to simulate Keyboard or Mouse input using the Win32 SendInput method. All of the Interop is done for you and there's a simple programming model for sending multiple keystrokes.</Description>
-		<Copyright>Copyright 2009-2018</Copyright>
+		<Description>Based on Windows Input Simulator created my Michael Noonan. Originally a .net framework project, the source code has been updated to be used as a .net core project by Christiaan Wevers
+
+The Windows Input Simulator provides a simple .NET (C#) interface to simulate Keyboard or Mouse input using the Win32 SendInput method. All of the Interop is done for you and there's a simple programming model for sending multiple keystrokes.</Description>
+		<Copyright>Copyright 2009-2019</Copyright>
 		<PackageLicenseUrl>http://inputsimulator.codeplex.com/license</PackageLicenseUrl>
 		<PackageProjectUrl>http://inputsimulator.codeplex.com</PackageProjectUrl>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<SignAssembly>true</SignAssembly>
 		<AssemblyOriginatorKeyFile>WindowsInput.snk</AssemblyOriginatorKeyFile>
 		<AssemblyName>WindowsInput</AssemblyName>
+		<Version>1.0.5</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
